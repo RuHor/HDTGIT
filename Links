@@ -1,49 +1,89 @@
+[update]
+fecha=
+
 [windows7x86]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows7x64]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows81x86]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows81x64]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows10x86]
 link=
 build=
 publicado=
+ediciones=
 
 [windows10x64]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows10ltscx86]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows10ltscx64]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows11x86]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
 
 [windows11x64]
+name=
+peso=
+idioma=
 link=
 build=
 publicado=
+ediciones=
